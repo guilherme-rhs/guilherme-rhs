@@ -1,0 +1,40 @@
+name: Atualizar cards de estatísticas
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar estatísticas públicas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=guilherme-rhs&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20p%C3%BAblicas%20do%20GitHub
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gerar linguagens dos repositórios públicos
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=guilherme-rhs&layout=compact&hide_border=true&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Publicar cards atualizados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualizar estatísticas públicas do perfil"
+          file_pattern: assets/*.svg

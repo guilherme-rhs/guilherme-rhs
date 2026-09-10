@@ -42,13 +42,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas públicas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilherme-rhs&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-rhs&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/github-stats.svg" alt="Estatísticas públicas do GitHub" />
+  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/top-langs.svg" alt="Linguagens mais usadas nos repositórios públicos" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=guilherme-rhs&hide_border=true" alt="GitHub Streak" />
-</p>
+<sub>Os cards são gerados por GitHub Actions e atualizados semanalmente. Eles consideram apenas dados públicos; repositórios privados não são expostos.</sub>
