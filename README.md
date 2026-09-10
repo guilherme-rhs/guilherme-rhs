@@ -1,52 +1,78 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
+<h1 align="center">Guilherme Ribeiro</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong> — construindo aplicações web de ponta a ponta e explorando <strong>IA / Machine Learning</strong>.
+  AI Engineer building agentic systems that turn complex workflows into useful software.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-silva-83b2a414b/">LinkedIn</a>
+  ·
+  <a href="https://guilherme-rhs.com.br">Website</a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+```text
+I build AI systems that can reason, retrieve context, use tools,
+and complete real work inside enterprise workflows.
+```
 
-- 🔭 Trabalhando em projetos Full Stack com **React/Next.js** no front e **Node.js / Python** no back
-- 🤖 Estudando e aplicando **IA e Machine Learning**
-- 🌱 Sempre aprendendo algo novo e melhorando o que já sei
-- 💬 Fale comigo sobre desenvolvimento web, APIs e IA
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/guilherme-silva-83b2a414b/)
+## What I work on
 
----
+I am an AI Engineer based in São José do Rio Preto, Brazil. My work sits between LLM applications, data platforms, and production software.
 
-### 🛠️ Tecnologias & Ferramentas
+- Agentic AI and multi-agent systems
+- Retrieval-Augmented Generation (RAG) and enterprise search
+- AI assistants for legal, healthcare, automotive, and operations teams
+- Intelligent workflows with tools, APIs, SQL, and human approval steps
+- MLOps, observability, evaluation, and production deployment
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Current focus
 
-**IA / Machine Learning**
+```mermaid
+flowchart LR
+    A[Enterprise data] --> B[RAG and retrieval]
+    B --> C[LLM reasoning]
+    C --> D[Tools and APIs]
+    D --> E[Auditable workflow]
+    E --> F[Useful outcome]
+```
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+I care less about demos that look autonomous and more about systems that are reliable enough for someone to use at work.
 
-<!-- Alternativa com ícones: https://skillicons.dev -->
-<!-- ![Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,tailwind,postgres,git,docker,pytorch,tensorflow,sklearn) -->
+## Experience
 
----
+- **AI Engineer, Daniel Law** — enterprise AI applications, legal knowledge systems, RAG, and agentic workflow automation.
+- **AI Engineer, Ford Motor Company** — research and development of autonomous AI systems for industrial and automotive use cases.
+- **AI Engineer / MLOps Engineer, Unimed Rio Preto** — machine learning platforms, healthcare analytics, and MLOps with Azure and Databricks.
 
-### 📊 Estatísticas públicas do GitHub
+## Toolkit
+
+**AI engineering**  
+`LLMs` · `Agentic AI` · `Multi-Agent Systems` · `RAG` · `MCP` · `Tool Calling` · `Prompt Engineering` · `AI Evaluation` · `Observability`
+
+**Frameworks and platforms**  
+`Python` · `LangChain` · `LangGraph` · `CrewAI` · `OpenAI` · `Claude` · `AWS Bedrock` · `Azure` · `Databricks` · `MLflow`
+
+**Data and delivery**  
+`SQL` · `PySpark` · `Weaviate` · `Pinecone` · `ChromaDB` · `Docker` · `REST APIs` · `Git`
+
+## A few things I have built
+
+- An enterprise platform for creating, deploying, and operating AI agents with orchestration, memory, tools, authentication, and observability.
+- A legal AI assistant that answers questions over proprietary documents using semantic search and RAG.
+- AI-first CRM and workflow systems that connect conversational interfaces to operational data.
+- Healthcare machine learning pipelines with monitoring, governance, and deployment automation.
+
+## Public GitHub statistics
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/github-stats.svg" alt="Estatísticas públicas do GitHub" />
-  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/top-langs.svg" alt="Linguagens mais usadas nos repositórios públicos" />
+  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/github-stats.svg" alt="Public GitHub statistics" />
+  <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/top-langs.svg" alt="Top languages across public repositories" />
 </p>
 
-<sub>Os cards são gerados por GitHub Actions e atualizados semanalmente. Eles consideram apenas dados públicos; repositórios privados não são expostos.</sub>
+<sub>These cards are generated inside this repository by GitHub Actions and refresh weekly. They intentionally use public repository data only, so the numbers remain verifiable.</sub>
+
+---
+
+<p align="center"><i>Building useful AI systems, one workflow at a time.</i></p>
