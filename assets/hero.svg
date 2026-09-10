@@ -1,0 +1,39 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Ribeiro — AI Engineer</title>
+  <desc id="desc">A dark editorial banner for Guilherme Ribeiro's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F1E"/>
+      <stop offset="0.54" stop-color="#101A35"/>
+      <stop offset="1" stop-color="#171036"/>
+    </linearGradient>
+    <linearGradient id="line" x1="124" y1="0" x2="1065" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72E7FF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#72E7FF" stop-opacity="0.54"/>
+      <stop offset="1" stop-color="#BD8CFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-80" y="-80" width="1360" height="480" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <g opacity="0.44">
+    <path d="M0 71H1200M0 142H1200M0 213H1200M0 284H1200" stroke="#8CB2E8" stroke-opacity="0.12"/>
+    <path d="M102 0V320M274 0V320M446 0V320M618 0V320M790 0V320M962 0V320M1134 0V320" stroke="#8CB2E8" stroke-opacity="0.1"/>
+  </g>
+  <circle cx="980" cy="73" r="94" fill="#5C7CFF" fill-opacity="0.31" filter="url(#blur)"/>
+  <circle cx="1080" cy="230" r="89" fill="#B779FF" fill-opacity="0.22" filter="url(#blur)"/>
+  <path d="M0 247C175 194 263 280 425 238C595 194 646 100 817 143C967 181 1046 139 1200 56" stroke="url(#line)" stroke-width="2"/>
+  <path d="M0 255C175 202 263 288 425 246C595 202 646 108 817 151C967 189 1046 147 1200 64" stroke="#75E4FF" stroke-opacity="0.12"/>
+  <rect x="71" y="56" width="8" height="8" rx="4" fill="#76E5FF"/>
+  <text x="96" y="63" fill="#98A9C9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">AI ENGINEER / AGENTIC SYSTEMS</text>
+  <text x="69" y="145" fill="#F5F8FF" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="-1.7">Guilherme Ribeiro</text>
+  <text x="72" y="190" fill="#C2D0E9" font-family="Arial, Helvetica, sans-serif" font-size="19">LLM applications · multi-agent systems · production AI</text>
+  <g transform="translate(72 235)">
+    <rect width="136" height="32" rx="16" fill="#74E5FF" fill-opacity="0.12" stroke="#74E5FF" stroke-opacity="0.4"/>
+    <text x="17" y="21" fill="#A9F0FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">RAG + TOOLS</text>
+    <rect x="148" width="146" height="32" rx="16" fill="#C08CFF" fill-opacity="0.12" stroke="#C08CFF" stroke-opacity="0.4"/>
+    <text x="164" y="21" fill="#DEC4FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">WORKFLOWS</text>
+  </g>
+  <text x="1053" y="278" fill="#95A7CD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">GITHUB PROFILE</text>
+</svg>

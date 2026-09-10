@@ -1,78 +1,63 @@
-<h1 align="center">Guilherme Ribeiro</h1>
-
 <p align="center">
-  AI Engineer building agentic systems that turn complex workflows into useful software.
+  <img width="100%" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/hero.svg" alt="Guilherme Ribeiro — AI Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-silva-83b2a414b/">LinkedIn</a>
-  ·
-  <a href="https://guilherme-rhs.com.br">Website</a>
+  <a href="https://www.linkedin.com/in/guilherme-silva-83b2a414b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://guilherme-rhs.com.br"><img src="https://img.shields.io/badge/Website-guilherme--rhs.com.br-171717?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
----
+<p align="center">
+  I build AI systems that retrieve context, reason over real data, use tools, and leave a clear trail of what happened.
+</p>
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 / Agents</h3>
+      Multi-agent architectures, tool use, memory, and workflow orchestration.
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 / Context</h3>
+      Retrieval systems, vector search, and knowledge layers that make LLM output useful.
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 / Production</h3>
+      Evaluation, observability, APIs, data platforms, and delivery that holds up outside a demo.
+    </td>
+  </tr>
+</table>
+
+## Systems I like building
 
 ```text
-I build AI systems that can reason, retrieve context, use tools,
-and complete real work inside enterprise workflows.
+enterprise data  →  retrieval  →  LLM reasoning  →  tools / APIs  →  auditable outcome
 ```
 
-## What I work on
+- AI agents that handle multi-step work without hiding their decisions.
+- RAG systems for proprietary knowledge, legal documents, and operational data.
+- AI-assisted CRM and workflow products that connect conversations to the work behind them.
+- ML and data platforms with monitoring, governance, and deployment discipline.
 
-I am an AI Engineer based in São José do Rio Preto, Brazil. My work sits between LLM applications, data platforms, and production software.
+## Stack
 
-- Agentic AI and multi-agent systems
-- Retrieval-Augmented Generation (RAG) and enterprise search
-- AI assistants for legal, healthcare, automotive, and operations teams
-- Intelligent workflows with tools, APIs, SQL, and human approval steps
-- MLOps, observability, evaluation, and production deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,aws,azure,docker,postgres,git&theme=dark" alt="Python, TypeScript, AWS, Azure, Docker, PostgreSQL, Git" />
+</p>
 
-## Current focus
+`LangChain` · `LangGraph` · `CrewAI` · `OpenAI` · `Claude` · `AWS Bedrock` · `Databricks` · `MLflow` · `PySpark` · `Weaviate` · `Pinecone` · `MCP`
 
-```mermaid
-flowchart LR
-    A[Enterprise data] --> B[RAG and retrieval]
-    B --> C[LLM reasoning]
-    C --> D[Tools and APIs]
-    D --> E[Auditable workflow]
-    E --> F[Useful outcome]
-```
-
-I care less about demos that look autonomous and more about systems that are reliable enough for someone to use at work.
-
-## Experience
-
-- **AI Engineer, Daniel Law** — enterprise AI applications, legal knowledge systems, RAG, and agentic workflow automation.
-- **AI Engineer, Ford Motor Company** — research and development of autonomous AI systems for industrial and automotive use cases.
-- **AI Engineer / MLOps Engineer, Unimed Rio Preto** — machine learning platforms, healthcare analytics, and MLOps with Azure and Databricks.
-
-## Toolkit
-
-**AI engineering**  
-`LLMs` · `Agentic AI` · `Multi-Agent Systems` · `RAG` · `MCP` · `Tool Calling` · `Prompt Engineering` · `AI Evaluation` · `Observability`
-
-**Frameworks and platforms**  
-`Python` · `LangChain` · `LangGraph` · `CrewAI` · `OpenAI` · `Claude` · `AWS Bedrock` · `Azure` · `Databricks` · `MLflow`
-
-**Data and delivery**  
-`SQL` · `PySpark` · `Weaviate` · `Pinecone` · `ChromaDB` · `Docker` · `REST APIs` · `Git`
-
-## A few things I have built
-
-- An enterprise platform for creating, deploying, and operating AI agents with orchestration, memory, tools, authentication, and observability.
-- A legal AI assistant that answers questions over proprietary documents using semantic search and RAG.
-- AI-first CRM and workflow systems that connect conversational interfaces to operational data.
-- Healthcare machine learning pipelines with monitoring, governance, and deployment automation.
-
-## Public GitHub statistics
+## GitHub activity
 
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/github-stats.svg" alt="Public GitHub statistics" />
   <img height="165" src="https://raw.githubusercontent.com/guilherme-rhs/guilherme-rhs/main/assets/top-langs.svg" alt="Top languages across public repositories" />
 </p>
 
-<sub>These cards are generated inside this repository by GitHub Actions and refresh weekly. They intentionally use public repository data only, so the numbers remain verifiable.</sub>
+<p align="center"><sub>Cards are generated in this repository by GitHub Actions and refresh weekly. Public data only.</sub></p>
 
----
-
-<p align="center"><i>Building useful AI systems, one workflow at a time.</i></p>
+<p align="center">
+  <i>Useful AI beats impressive demos.</i>
+</p>
