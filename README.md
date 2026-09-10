@@ -30,16 +30,19 @@
   </tr>
 </table>
 
-## Systems I like building
+## How I build
 
 ```text
-enterprise data  →  retrieval  →  LLM reasoning  →  tools / APIs  →  auditable outcome
+context  →  reasoning  →  tools  →  reviewable work
 ```
 
-- AI agents that handle multi-step work without hiding their decisions.
-- RAG systems for proprietary knowledge, legal documents, and operational data.
-- AI-assisted CRM and workflow products that connect conversations to the work behind them.
-- ML and data platforms with monitoring, governance, and deployment discipline.
+I care about systems that are clear enough to trust: good retrieval, constrained tool use, observable behavior, and a human decision where one matters.
+
+## Recent public work
+
+<!-- START:RECENT-PROJECTS -->
+- Updating this list from GitHub…
+<!-- END:RECENT-PROJECTS -->
 
 ## Stack
 
