@@ -41,7 +41,10 @@ I care about systems that are clear enough to trust: good retrieval, constrained
 ## Recent public work
 
 <!-- START:RECENT-PROJECTS -->
-- Updating this list from GitHub…
+- [**zetron-consultoria**](https://github.com/guilherme-rhs/zetron-consultoria) · `HTML`
+- [**aleandra-advocacia**](https://github.com/guilherme-rhs/aleandra-advocacia) · `HTML` — Landing page institucional — Dra. Aleandra Soares Garcia
+- [**data-science-vercel**](https://github.com/guilherme-rhs/data-science-vercel) · `TypeScript`
+- [**portifolio**](https://github.com/guilherme-rhs/portifolio) · `HTML`
 <!-- END:RECENT-PROJECTS -->
 
 ## Stack
