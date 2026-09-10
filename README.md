@@ -12,7 +12,7 @@
 - 🤖 Estudando e aplicando **IA e Machine Learning**
 - 🌱 Sempre aprendendo algo novo e melhorando o que já sei
 - 💬 Fale comigo sobre desenvolvimento web, APIs e IA
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/SEU-PERFIL)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/guilherme-silva-83b2a414b/)
 
 ---
 
@@ -50,9 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-rhs&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=guilherme-rhs&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center"><i>Ajuste o link do LinkedIn substituindo <code>SEU-PERFIL</code>.</i></p>
