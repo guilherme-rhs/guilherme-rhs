@@ -42,9 +42,9 @@ I care about systems that are clear enough to trust: good retrieval, constrained
 
 <!-- START:RECENT-PROJECTS -->
 - [**agentops-console**](https://github.com/guilherme-rhs/agentops-console) · `JavaScript` — Interactive demonstration of an auditable agentic AI workflow
-- [**zetron-consultoria**](https://github.com/guilherme-rhs/zetron-consultoria) · `HTML`
 - [**aleandra-advocacia**](https://github.com/guilherme-rhs/aleandra-advocacia) · `HTML` — Landing page institucional — Dra. Aleandra Soares Garcia
 - [**data-science-vercel**](https://github.com/guilherme-rhs/data-science-vercel) · `TypeScript`
+- [**portifolio**](https://github.com/guilherme-rhs/portifolio) · `HTML`
 <!-- END:RECENT-PROJECTS -->
 
 ## Stack
